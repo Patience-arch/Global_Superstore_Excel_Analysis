@@ -1,7 +1,7 @@
 Global Superstore Sales Analysis Using Excel
 I cleaned 51,290 rows of retail data in Microsoft Excel and built an interactive dashboard to track sales, profit, and shipping turnaround time across global regions.
 
-Key Metrics (Overall)
+Key Metrics (Overall):
 Total Sales: 12,642,502
 Total Profit: 1,467,457
 Avg. Shipping Time: 4 Days
@@ -19,7 +19,7 @@ Built Pivot Tables to break down sales, profit and shipping days by region, coun
 Data Visualization (Dashboard): 
 Created live KPI cards, regional comparison charts (Category Quantity, Avg. Profit, and Count of Sales by Ship Mode) and interactive Slicers linked to all tables and charts via Report Connections.
 
-What I Learned
+What I Learned:
 The trickiest parts of this project were fixing mixed date formats so the DAYS() formula calculated cleanly across every row, and making sure every Slicer was linked through Report Connections so the KPI cards and charts updated together when filtering by region.
 
 Key Findings
