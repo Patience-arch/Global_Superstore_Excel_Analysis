@@ -3,10 +3,9 @@ Global Superstore Sales Analysis Using Excel
 I cleaned 51,290 rows of retail data in Microsoft Excel and built an interactive dashboard to track sales, profit, and shipping turnaround time across global regions.
 
 Key Metrics (Overall):
-
-Total Sales: 12,642,502
-Total Profit: 1,467,457
-Avg. Shipping Time: 4 Days
+1. Total Sales: 12,642,502
+2. Total Profit: 1,467,457
+3. Avg. Shipping Time: 4 Days
 
 What I Did:
 
@@ -17,9 +16,12 @@ Data Cleaning (Working Sheet):
 4. Calculated order shipping time (Days) using =DAYS(ShipDate, OrderDate) with zero formula errors.
 
 Data Analysis (Pivot Table): 
+
 Built Pivot Tables to break down sales, profit and shipping days by region, country, product category, and shipping mode.
 
+
 Data Visualization (Dashboard):
+
 Created live KPI cards, regional comparison charts (Category Quantity, Avg. Profit, and Count of Sales by Ship Mode) and interactive Slicers linked to all tables and charts via Report Connections.
 
 What I Learned:
