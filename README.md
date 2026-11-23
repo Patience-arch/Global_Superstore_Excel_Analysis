@@ -5,28 +5,21 @@ I cleaned 51,290 rows of retail data in Microsoft Excel and built an interactive
 Key Metrics (Overall):
 
 Total Sales: 12,642,502
-
 Total Profit: 1,467,457
-
 Avg. Shipping Time: 4 Days
 
 What I Did:
+
 Data Cleaning (Working Sheet): 
-
-Kept the raw dataset untouched on its own tab.
-
-Standardized inconsistent date formats across all 51,290 rows.
-
-Dropped unnecessary columns.
-
-Calculated order shipping time (Days) using =DAYS(ShipDate, OrderDate) with zero formula errors.
+1. Kept the raw dataset untouched on its own tab.
+2. Standardized inconsistent date formats across all 51,290 rows.
+3. Dropped unnecessary columns.
+4. Calculated order shipping time (Days) using =DAYS(ShipDate, OrderDate) with zero formula errors.
 
 Data Analysis (Pivot Table): 
-
 Built Pivot Tables to break down sales, profit and shipping days by region, country, product category, and shipping mode.
 
 Data Visualization (Dashboard):
-
 Created live KPI cards, regional comparison charts (Category Quantity, Avg. Profit, and Count of Sales by Ship Mode) and interactive Slicers linked to all tables and charts via Report Connections.
 
 What I Learned:
